@@ -1,0 +1,77 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styling */
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Navigation Bar */
+nav {
+    background-color: #444;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Main Content */
+main {
+    background-color: white;
+    font-size: 18px;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+/* Footer */
+footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Styling List Items */
+li {
+    display: inline-block;
+    width: auto;
+}
+
+/* H1 Styling */
+h1 {
+    text-align: center;
+    font-family: 'Georgia', serif;
+    color: #ff9900;
+}
+
+/* Paragraph Styling */
+p {
+    line-height: 1.6;
+}
